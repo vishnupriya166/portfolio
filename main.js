@@ -37,7 +37,7 @@ document.querySelector('#app').innerHTML = `
       <div class="max-w-6xl mx-auto px-4">
         <div class="flex justify-between items-center h-16">
           <h1 class="text-2xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 text-transparent bg-clip-text">
-            John Doe
+            Vishnu Priya
           </h1>
           
           <!-- Desktop Menu -->
